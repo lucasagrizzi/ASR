@@ -1,5 +1,5 @@
-deepspeech/deepspeech-0.9.3-models.pbmm
-deepspeech/deepspeech-0.9.3-models.scorer
-deepspeech/.DS_Store
-.DS_Store
+*.pbmm
+*.scorer
+*.DS_Store
+
 
